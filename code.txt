@@ -1,0 +1,14 @@
+public class NewTest {
+  @Test
+  public void f() {
+	  test1.ram1();
+  }
+  @BeforeMethod
+  public void beforeMethod() {
+  }
+
+  @AfterMethod
+  public void afterMethod() {
+  }
+
+}
